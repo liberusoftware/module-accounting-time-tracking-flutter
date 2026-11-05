@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-time-tracking-flutter",
+  "capabilityKey": "liberusoftware/module-accounting-time-tracking",
+  "presentation": "mobile-flutter",
+  "package": "module_accounting_time_tracking_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/accounting/nextjs/time-tracking.md",
+  "presentationPlan": "projects/accounting/flutter/time-tracking.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
